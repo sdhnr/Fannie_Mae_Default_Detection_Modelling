@@ -14,3 +14,4 @@ This repository hosts the FNMA Default Project Modelling phase, a continuation o
 2. **Federal Reserve Bank of St. Louis Economic Data**: Supplementary economic indicators.
 3. **HUD User Data**: Geographical data for county zip codes, enriching the project's spatial analysis.
 
+Author : Said Huner
